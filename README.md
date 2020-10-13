@@ -5,7 +5,7 @@ Vic Crime Investigation
 <br />
 <p align="center">
   <a href=>
-    <img src="https://www.animatedimages.org/data/media/1113/animated-criminal-image-0013.gif" alt="Logo" width="300" height="300">
+    <img src="https://www.animatedimages.org/data/media/1113/animated-criminal-image-0013.gif" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Crime Investigation</h3>
